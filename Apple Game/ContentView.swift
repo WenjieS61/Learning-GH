@@ -21,7 +21,7 @@ struct ContentView: View {
         VStack {
 
             
-            Text("SwiftUI Slots!").font(.title)
+            Text("SwiftUI Game!").font(.title)
             
             Spacer()
             
